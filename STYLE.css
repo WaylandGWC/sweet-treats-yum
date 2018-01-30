@@ -8,10 +8,10 @@ background-color: PaleTurquoise;
 }
 
 .darkblue {
-color: White; } 
+color: darkblue; } 
 
 button{
-background-color: PaleTurquoise;  
+background-color: white;  
 border-color: navy;
 border-radius: 40px;
 width: 125px;
