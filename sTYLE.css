@@ -3,7 +3,7 @@ h1{
 }
 
 body{
-background-color: white; 
+background-color: pink; 
   
 }
 
@@ -11,8 +11,8 @@ background-color: white;
 color: darkblue; } 
 
 button{
-background-color: white;  
-border-color: navy;
+background-color: pink;  
+border-color: red;
 border-radius: 10px;
 width: 110px;
 height: 70px;
