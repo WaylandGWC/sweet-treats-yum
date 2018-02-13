@@ -1,6 +1,4 @@
-h1{
-font-family: "Times New Roman", Times, serif;  
-}
+
 
 body{
 background-color: white; 
@@ -9,7 +7,7 @@ background-color: white;
 
 .darkblue {
 color: darkblue; 
-font-family: "Times New Roman", Times, serif;
+font-family: Times New Roman, Times, serif;
 font-style: Italics;
 } 
 
