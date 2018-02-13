@@ -11,7 +11,7 @@ background-color: white;
 color: darkblue; 
 } 
 
-.button{
+button{
 background-color: white;  
 border-color: navy;
 border-radius: 10px;
@@ -21,7 +21,7 @@ height: 70px;
   
 }
 
-.button:hover{
+button:hover{
 background-color: lightblue;  
 border-color: navy;
 border-radius: 10px;
