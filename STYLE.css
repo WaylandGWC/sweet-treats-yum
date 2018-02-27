@@ -6,14 +6,14 @@ background-color: #edc9b8;
 }
 
 .darkblue {
-color: darkblue; 
+color: Black; 
 font-family: Times New Roman, Times, serif;
 font-style: italic;
 } 
 
 button{
 background-color: white;  
-border-color: navy;
+border-color: white;
 border-radius: 10px;
 width: 110px;
 height: 70px;
@@ -22,8 +22,8 @@ height: 70px;
 }
 
 button:hover{
-background-color: powderblue;  
-border-color: black;
+background-color: white;  
+border-color: white;
 border-radius: 10px;
 width: 115px;
 height: 75px;
