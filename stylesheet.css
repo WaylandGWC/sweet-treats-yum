@@ -17,3 +17,10 @@ border-color: white;
 border-radius: 10px;
 width: 110px;
 height: 70px;
+   
+button:hover{
+background-color: white;  
+border-color: white;
+border-radius: 10px;
+width: 115px;
+height: 75px;
