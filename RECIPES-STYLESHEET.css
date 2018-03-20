@@ -35,6 +35,4 @@ height: 70px;
 .brownies{
    
 background-image:
-           <div class="row">
-        <figure class="col-sm-8">
-       <img src='brownies-1024x1024.jpg' width="200" height="200" style='float: left;left;padding-right: 50px;'/>;
+           "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oreo-Brownie.jpg";
