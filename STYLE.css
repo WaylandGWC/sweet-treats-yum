@@ -1,4 +1,14 @@
-
+<div class="nav-wrapper">
+   <nav class="nav-menu">
+      <ul class="clearfix">
+         <li>Home</li>
+         <li>About us
+         </li>
+         <li>Recipes
+         </li>
+      </ul>
+   </nav>
+</div>
 
 body{
 background-color: #edc9b8; 
